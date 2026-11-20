@@ -1,0 +1,61 @@
+chantier_id,nom,type,region,conducteur,date_debut,duree_prevue_sem,budget_initial_eur
+1,Chantier 01,Logements collectifs,Bretagne,CT-09,2023-08-28,71,6950000.0
+2,Chantier 02,Ouvrage public,Normandie,CT-08,2024-02-19,49,7084000.0
+3,Chantier 03,Bureaux,Hauts-de-France,CT-04,2023-03-27,53,7118000.0
+4,Chantier 04,Logements collectifs,Île-de-France,CT-09,2023-08-14,56,10286000.0
+5,Chantier 05,Ouvrage public,Île-de-France,CT-09,2023-07-31,56,8035000.0
+6,Chantier 06,Rénovation,Île-de-France,CT-08,2024-05-13,35,2516000.0
+7,Chantier 07,Rénovation,Bretagne,CT-02,2023-10-09,43,2597000.0
+8,Chantier 08,Ouvrage public,Bretagne,CT-08,2023-05-29,55,2745000.0
+9,Chantier 09,Rénovation,Bretagne,CT-01,2024-02-12,32,2964000.0
+10,Chantier 10,Ouvrage public,Île-de-France,CT-07,2024-01-22,50,3362000.0
+11,Chantier 11,Logements collectifs,Île-de-France,CT-10,2023-09-25,50,8969000.0
+12,Chantier 12,Bureaux,Île-de-France,CT-10,2024-06-24,71,13167000.0
+13,Chantier 13,Logements collectifs,Île-de-France,CT-03,2023-11-27,72,4131000.0
+14,Chantier 14,Ouvrage public,Grand Est,CT-08,2024-06-03,42,6070000.0
+15,Chantier 15,Rénovation,Île-de-France,CT-06,2024-02-05,31,1867000.0
+16,Chantier 16,Bureaux,Île-de-France,CT-10,2024-06-24,61,6147000.0
+17,Chantier 17,Rénovation,Hauts-de-France,CT-05,2023-02-06,43,1250000.0
+18,Chantier 18,Rénovation,Normandie,CT-10,2023-04-17,44,883000.0
+19,Chantier 19,Ouvrage public,Bretagne,CT-02,2023-04-17,67,7100000.0
+20,Chantier 20,Bureaux,Grand Est,CT-11,2024-01-15,57,6493000.0
+21,Chantier 21,Ouvrage public,Normandie,CT-04,2024-02-26,40,4979000.0
+22,Chantier 22,Logements collectifs,Bretagne,CT-12,2024-02-19,58,5170000.0
+23,Chantier 23,Bureaux,Grand Est,CT-10,2024-04-29,62,5904000.0
+24,Chantier 24,Logements collectifs,Normandie,CT-04,2024-05-20,40,4875000.0
+25,Chantier 25,Ouvrage public,Île-de-France,CT-03,2023-07-03,49,2434000.0
+26,Chantier 26,Bureaux,Normandie,CT-12,2023-06-05,61,4904000.0
+27,Chantier 27,Rénovation,Hauts-de-France,CT-06,2023-06-05,21,801000.0
+28,Chantier 28,Bureaux,Grand Est,CT-09,2023-03-06,42,5668000.0
+29,Chantier 29,Bureaux,Hauts-de-France,CT-05,2024-03-18,62,5843000.0
+30,Chantier 30,Bureaux,Normandie,CT-09,2023-12-18,62,14590000.0
+31,Chantier 31,Ouvrage public,Normandie,CT-05,2023-08-14,44,9528000.0
+32,Chantier 32,Bureaux,Bretagne,CT-09,2024-03-25,69,12175000.0
+33,Chantier 33,Rénovation,Normandie,CT-08,2024-02-26,31,2313000.0
+34,Chantier 34,Rénovation,Hauts-de-France,CT-10,2024-01-08,24,1532000.0
+35,Chantier 35,Ouvrage public,Normandie,CT-03,2024-06-10,49,5651000.0
+36,Chantier 36,Logements collectifs,Grand Est,CT-04,2023-02-20,69,4182000.0
+37,Chantier 37,Logements collectifs,Hauts-de-France,CT-11,2023-06-26,43,5525000.0
+38,Chantier 38,Bureaux,Bretagne,CT-02,2023-01-23,65,11814000.0
+39,Chantier 39,Bureaux,Île-de-France,CT-05,2023-05-22,76,5598000.0
+40,Chantier 40,Rénovation,Normandie,CT-10,2023-07-10,36,1657000.0
+41,Chantier 41,Rénovation,Île-de-France,CT-08,2024-03-11,27,621000.0
+42,Chantier 42,Bureaux,Île-de-France,CT-06,2023-05-22,49,9821000.0
+43,Chantier 43,Bureaux,Grand Est,CT-01,2024-04-15,60,8637000.0
+44,Chantier 44,Bureaux,Île-de-France,CT-02,2024-07-08,61,6362000.0
+45,Chantier 45,Rénovation,Île-de-France,CT-08,2023-08-07,21,2937000.0
+46,Chantier 46,Ouvrage public,Hauts-de-France,CT-09,2023-12-18,58,5353000.0
+47,Chantier 47,Ouvrage public,Hauts-de-France,CT-10,2024-05-13,49,3540000.0
+48,Chantier 48,Bureaux,Île-de-France,CT-07,2023-11-27,46,9919000.0
+49,Chantier 49,Rénovation,Hauts-de-France,CT-05,2024-01-22,28,1689000.0
+50,Chantier 50,Rénovation,Hauts-de-France,CT-03,2023-10-30,39,2639000.0
+51,Chantier 51,Logements collectifs,Hauts-de-France,CT-11,2024-02-19,75,10943000.0
+52,Chantier 52,Rénovation,Île-de-France,CT-06,2023-07-31,22,2442000.0
+53,Chantier 53,Logements collectifs,Normandie,CT-02,2023-05-29,56,11893000.0
+54,Chantier 54,Bureaux,Île-de-France,CT-12,2023-11-13,57,13375000.0
+55,Chantier 55,Bureaux,Bretagne,CT-05,2023-11-20,60,10053000.0
+56,Chantier 56,Ouvrage public,Hauts-de-France,CT-08,2023-05-15,56,2657000.0
+57,Chantier 57,Logements collectifs,Hauts-de-France,CT-04,2023-08-21,40,5300000.0
+58,Chantier 58,Logements collectifs,Normandie,CT-08,2023-02-20,57,8625000.0
+59,Chantier 59,Rénovation,Grand Est,CT-09,2023-02-20,20,2547000.0
+60,Chantier 60,Bureaux,Normandie,CT-07,2024-06-24,72,11681000.0

@@ -1,0 +1,4 @@
+methode,rappel,fausses_alertes,avance_mediane_sem,part_avance_4s_ou_plus,n_derive,n_sain
+"Méthode classique (CPI/SPI < 0,909)",0.9523809523809523,0.0,0.0,0.0,21,39
+Régression logistique,1.0,0.07692307692307693,4.5,0.6,21,39
+Forêt aléatoire,1.0,0.05128205128205128,5.5,0.75,21,39
